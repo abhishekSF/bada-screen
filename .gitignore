@@ -1,2 +1,15 @@
+node_modules
+.grok
+.vercel
+.output
+dist
+screenshots
+artifacts
 attachments
+.project_id
 .node_modules.lock
+AGENTS.md
+.env
+.env.*
+*.log
+.DS_Store
