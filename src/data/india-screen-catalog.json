@@ -1,0 +1,3164 @@
+{
+  "lastChecked": "2026-11-13",
+  "cities": [
+    {
+      "id": "mumbai",
+      "name": "Mumbai",
+      "note": "Includes Navi Mumbai and Thane. South Mumbai, the suburbs, and the historic houses are one list."
+    },
+    {
+      "id": "delhi",
+      "name": "Delhi NCR",
+      "note": "Delhi city and Faridabad. Gurugram and Noida are separate lists so they are easy to pick on a phone."
+    },
+    {
+      "id": "gurugram",
+      "name": "Gurugram",
+      "note": "The open commercial IMAX here is still the xenon house at Ambience. A second laser IMAX has been talked about and is not confirmed open."
+    },
+    {
+      "id": "noida",
+      "name": "Noida",
+      "note": "Two commercial IMAX auditoriums. They do not agree with each other on size, and the laser one is not the wider one."
+    },
+    {
+      "id": "bengaluru",
+      "name": "Bengaluru",
+      "note": "The deepest bench of xenon IMAX houses, plus one laser house at Nexus Koramangala that older sheets still call xenon. Dolby Cinema is a separate room at AMB Kapali."
+    },
+    {
+      "id": "hyderabad",
+      "name": "Hyderabad",
+      "note": "No confirmed open IMAX on 13 November 2026. The giant is Prasads PCX, which stopped being IMAX in 2015. Dolby Cinema, HDR, and EPIQ are the picture people cross town for."
+    },
+    {
+      "id": "chennai",
+      "name": "Chennai",
+      "note": "Palazzo is the laser flagship after a disputed upgrade. Velachery is the xenon IMAX. Sathyam was not confirmed as a current show house in this pass."
+    },
+    {
+      "id": "kolkata",
+      "name": "Kolkata",
+      "note": "One commercial IMAX, at South City. Priya and New Empire were not confirmed as currently programmed."
+    },
+    {
+      "id": "pune",
+      "name": "Pune",
+      "note": "Laser IMAX at Phoenix Mall of the Millennium, an older xenon IMAX at Westend, and a Dolby Cinema at City Pride Kharadi."
+    },
+    {
+      "id": "ahmedabad",
+      "name": "Ahmedabad",
+      "note": "Phoenix Palladium is the commercial laser IMAX. Science City is the disputed 15/70 house and does not play Friday releases."
+    },
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "note": "Rajasthan's first IMAX with Laser opened at Pacific Mall in early November 2026. Rajmandir is the single-screen landmark."
+    },
+    {
+      "id": "kochi",
+      "name": "Kochi",
+      "note": "One laser IMAX at Centre Square. A second IMAX tag on the VIP listing looks like the same complex, not a second screen."
+    },
+    {
+      "id": "chandigarh",
+      "name": "Chandigarh",
+      "note": "No IMAX was verified in Chandigarh. The nearest cited premium large format is a PXL in Mohali, which is the tricity rather than the city itself."
+    },
+    {
+      "id": "lucknow",
+      "name": "Lucknow",
+      "note": "Phoenix Palassio is the xenon IMAX. A PXL at Lulu is the other cited premium screen."
+    },
+    {
+      "id": "goa",
+      "name": "Goa",
+      "note": "No IMAX was verified. One BigPix in Panaji is the only premium screen this pass could cite."
+    },
+    {
+      "id": "indore",
+      "name": "Indore",
+      "note": "No IMAX was verified. One BigPix at Phoenix Citadel is the only premium screen this pass could cite."
+    },
+    {
+      "id": "nagpur",
+      "name": "Nagpur",
+      "note": "Covered. No notable IMAX, PLF, or iconic hall was verified.",
+      "empty": "Nothing in this set for Nagpur. That is a verification gap, not a claim that the city has no cinemas."
+    },
+    {
+      "id": "surat",
+      "name": "Surat",
+      "note": "Rajhans Precia is the laser IMAX. A PXL at Rahul Raj is the other cited premium screen."
+    },
+    {
+      "id": "visakhapatnam",
+      "name": "Visakhapatnam",
+      "note": "No IMAX. A Barco HDR single screen and an LED house are the cited picture rooms."
+    },
+    {
+      "id": "coimbatore",
+      "name": "Coimbatore",
+      "note": "Broadway's laser IMAX is the room people travel for. Width figures disagree."
+    },
+    {
+      "id": "bhubaneswar",
+      "name": "Bhubaneswar",
+      "note": "Covered. No notable IMAX, PLF, or iconic hall was verified.",
+      "empty": "Nothing in this set for Bhubaneswar. Ordinary multiplexes were not added to fill the city."
+    },
+    {
+      "id": "guwahati",
+      "name": "Guwahati",
+      "note": "Covered. No notable IMAX, PLF, or iconic hall was verified.",
+      "empty": "Nothing in this set for Guwahati. A booking-site pass and a fan guide updated in November 2026 did not name an IMAX or a flagship PLF here."
+    },
+    {
+      "id": "thiruvananthapuram",
+      "name": "Thiruvananthapuram",
+      "note": "Added beyond the original city list because PVR Lulu has a real commercial IMAX."
+    }
+  ],
+  "screens": [
+    {
+      "id": "miraj-wadala",
+      "name": "Miraj Cinemas IMAX",
+      "chain": "Miraj",
+      "city": "mumbai",
+      "area": "Wadala",
+      "address": "Miraj Cinemas IMAX, Wadala, Mumbai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Commercial laser IMAX on the site of India's first IMAX (Adlabs, 2001). Fan lists treat it as Mumbai's largest IMAX. It is laser, not 15/70 film. Published widths disagree by a few feet, so no single size is shown.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "Enthusiast census of Indian IMAX sites, posted on r/imaxindia and captured in search excerpts dated around 30 July 2026. Direct scrape of Reddit was blocked. Lists Wadala as XT Laser."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/kdcloudy/status/2063674272854474766",
+          "note": "7 June 2026 laser shortlist includes Miraj IMAX Wadala."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "miraj-wadala"
+    },
+    {
+      "id": "inox-skycity",
+      "name": "INOX Megaplex IMAX",
+      "chain": "INOX",
+      "city": "mumbai",
+      "area": "Borivali East",
+      "address": "Sky City Mall, Western Express Highway, Borivali East, Mumbai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser",
+        "4DX in the same megaplex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "North Mumbai's laser IMAX, inside the Sky City megaplex. A 4DX auditorium is a different room in the same complex. It is not Oberoi Mall in Goregaon.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. Lists 4DX, IMAX, and Insignia at Oberoi Sky City."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: INOX Skycity, XT Laser."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/kdcloudy/status/2063674272854474766",
+          "note": "7 June 2026 laser shortlist includes INOX SkyCity Borivali."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-skycity"
+    },
+    {
+      "id": "pvr-phoenix-mumbai",
+      "name": "PVR ICON IMAX",
+      "chain": "PVR",
+      "city": "mumbai",
+      "area": "Lower Parel",
+      "address": "Phoenix Palladium, High Street Phoenix, Lower Parel, Mumbai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "Commercial laser (CoLa)",
+        "12-channel"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Central Mumbai's laser IMAX. Enthusiast notes call it commercial laser with 12-channel sound, and often prefer it to Wadala when sound matters more than width.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: Commercial Laser and 12-channel at Phoenix Lower Parel."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/PremiumFormatsIndia/comments/1u03qbi/the_odyssey_imax_bookings_open_in_india/",
+          "note": "r/PremiumFormatsIndia: choose Phoenix Palladium when you want the better sound, Wadala when you want the larger wall."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-phoenix-mumbai"
+    },
+    {
+      "id": "inox-eros",
+      "name": "INOX Eros IMAX",
+      "chain": "INOX",
+      "city": "mumbai",
+      "area": "Churchgate",
+      "address": "Eros Cinema, Churchgate, Mumbai",
+      "formats": [
+        "imax",
+        "iconic"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "The historic Eros house, reopened as a laser IMAX. It is the south Mumbai answer, and a smaller picture than Wadala or Sky City. The building is the reason it is also listed as iconic.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. EROS INOX IMAX Cinema, Churchgate."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: INOX Eros, XT Laser."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/imax-india-list",
+          "note": "IMAX location list includes EROS INOX, Churchgate."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-eros"
+    },
+    {
+      "id": "inox-jio-world",
+      "name": "Maison INOX IMAX",
+      "chain": "INOX",
+      "city": "mumbai",
+      "area": "Bandra Kurla Complex",
+      "address": "Jio World Plaza, Bandra Kurla Complex, Mumbai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "A laser IMAX in BKC. Convenient for the business district. Not one of the city's largest cited walls.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. Maison INOX, Jio World Plaza, listed with IMAX on BookMyShow."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: INOX Jio World Plaza, XT Laser."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-jio-world"
+    },
+    {
+      "id": "inox-inorbit-malad",
+      "name": "INOX Megaplex IMAX",
+      "chain": "INOX",
+      "city": "mumbai",
+      "area": "Malad",
+      "address": "Inorbit Mall, Malad, Mumbai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Malad's commercial IMAX, still on the older dual-xenon system in the enthusiast census. Use it when the laser shows are full, not because the projector is the newest.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. IMAX, MX4D, and Insignia at Inorbit Malad."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: INOX Inorbit, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "November 2026 guide also names Onyx and ScreenX at Inorbit Malad, without calling the IMAX laser."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "The IMAX itself is agreed. Sibling formats are not: the September 2026 booking census lists MX4D and Insignia here, while a November 2026 fan guide lists Onyx and ScreenX in the same megaplex. Those are other auditoriums, if they are open, and they are not this IMAX.",
+      "repoScreenId": "inox-inorbit-malad"
+    },
+    {
+      "id": "inox-rcity",
+      "name": "INOX R City IMAX",
+      "chain": "INOX",
+      "city": "mumbai",
+      "area": "Ghatkopar",
+      "address": "R City Mall, Ghatkopar West, Mumbai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Eastern-suburbs IMAX. The enthusiast census still has it on dual xenon.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: INOX R-City, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-rcity"
+    },
+    {
+      "id": "cinepolis-seawoods",
+      "name": "Cinépolis Nexus Seawoods IMAX",
+      "chain": "Cinépolis",
+      "city": "mumbai",
+      "area": "Navi Mumbai",
+      "address": "Nexus Seawoods, Nerul, Navi Mumbai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "4DX in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Navi Mumbai's IMAX. Xenon in the enthusiast census. The booking census also shows 4DX at this complex, which is a different auditorium.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. Lists IMAX and 4DX."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: Cinepolis Nexus Seawoods, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "cinepolis-seawoods"
+    },
+    {
+      "id": "cinepolis-viviana",
+      "name": "Cinépolis Lake Shore IMAX",
+      "chain": "Cinépolis",
+      "city": "mumbai",
+      "area": "Thane",
+      "address": "Lake Shore, formerly Viviana Mall, Thane",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "4DX in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Thane's IMAX, grouped with Mumbai because that is how people travel to it. Xenon in the enthusiast census. The mall name changed; the screen did not obviously move.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Listed as Cinepolis Lake Shore (ex Viviana Mall, Thane), with 4DX and IMAX, on 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census still says Cinepolis Viviana Mall, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "November 2026 guide says Cinepolis Lakeshore (Viviana Mall), Thane."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "Older notes still say Viviana Mall. The September 2026 booking census lists the IMAX as Cinépolis Lake Shore, formerly Viviana.",
+      "repoScreenId": "cinepolis-viviana"
+    },
+    {
+      "id": "pvr-oberoi-pxl",
+      "name": "PVR Oberoi Mall P[XL]",
+      "chain": "PVR",
+      "city": "mumbai",
+      "area": "Goregaon East",
+      "address": "Oberoi Mall, Goregaon East, Mumbai",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "The Goregaon premium large-format people use when they are not crossing to a laser IMAX. One November 2026 fan guide names it. This is not the Sky City IMAX, which is a different mall in Borivali.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-kurla-pxl",
+      "name": "PVR Phoenix Marketcity P[XL]",
+      "chain": "PVR",
+      "city": "mumbai",
+      "area": "Kurla",
+      "address": "Phoenix Marketcity, Kurla, Mumbai",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A P[XL] at Phoenix Marketcity, Kurla. Cited by one November 2026 fan guide. Not an IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "miraj-auromax",
+      "name": "Miraj Auromax",
+      "chain": "Miraj",
+      "city": "mumbai",
+      "area": "Wadala",
+      "address": "Miraj Cinemas, Wadala, Mumbai",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Auromax"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Miraj's own large-format room beside the Wadala IMAX. A November 2026 fan guide cites it. It is not the IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "new-excelsior",
+      "name": "New Excelsior",
+      "chain": "Mukta A2",
+      "city": "mumbai",
+      "area": "Fort",
+      "address": "New Excelsior, Fort, Mumbai",
+      "formats": [
+        "iconic"
+      ],
+      "tags": [
+        "Single screen"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A large Fort single screen that still comes up in premium-screen lists. The same November 2026 guide that names it also says the projection is average, so the trip is the room more than the picture.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees. Calls the projection average."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "liberty-cinema",
+      "name": "Liberty Cinema",
+      "chain": "Independent",
+      "city": "mumbai",
+      "area": "Marine Lines",
+      "address": "Liberty Cinema, Marine Lines, Mumbai",
+      "formats": [
+        "iconic"
+      ],
+      "tags": [
+        "Art Deco",
+        "Single screen"
+      ],
+      "status": "uncertain",
+      "confidence": "low",
+      "why": "The Art Deco house people mean when they say Liberty. It is in this list so it is not confused with a working multiplex. Current programming was not verified.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://en.wikipedia.org/wiki/Liberty_Cinema",
+          "note": "Wikipedia: Art Deco single-screen cinema in Mumbai, opened 1949. Page describes the building; it is not a 2026 show listing."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "Wikipedia still describes Liberty as a 1,200-seat Art Deco cinema and shows a 2024 façade. This pass found no 2026 showtimes. A heritage article remembers a reopening after a closure years ago. Do not assume a Friday show."
+    },
+    {
+      "id": "pvr-priya",
+      "name": "PVR Priya IMAX",
+      "chain": "PVR",
+      "city": "delhi",
+      "area": "Vasant Vihar",
+      "address": "Priya Cinema, Basant Lok, Vasant Vihar, New Delhi",
+      "formats": [
+        "imax",
+        "iconic"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser",
+        "12-channel"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "The Delhi hall people cross town for: a large laser IMAX with 12-channel sound, inside the old Priya cinema. Fan rankings put the width near 69 ft. That figure is a community measurement, not an IMAX survey.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: XT Laser, 12-channel."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imax/comments/1i4llpi/all_imax_venues_in_delhi_ncr_ranked_interstellar/",
+          "note": "r/imax quality ranking places Priya first in Delhi NCR for laser, seats, and upkeep."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/delhi/comments/1sdg01q/ranking_imax_screens_in_delhi_ncr_by_size_and/",
+          "note": "April 2026 r/delhi size ranking: about 69 by 36 ft, XT Laser, 12-channel."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/kdcloudy/status/2063674272854474766",
+          "note": "7 June 2026 laser shortlist leads with PVR Priya."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-priya"
+    },
+    {
+      "id": "pvr-select",
+      "name": "PVR Select Citywalk IMAX",
+      "chain": "PVR",
+      "city": "delhi",
+      "area": "Saket",
+      "address": "Select Citywalk, Saket, New Delhi",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "Commercial laser (CoLa)",
+        "12-channel"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "A smaller laser IMAX that enthusiast rankings still put near the top for contrast and 12-channel sound. It is not the giant. One 2024 visitor on r/delhi called a show blurry, so maintenance can slip.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: Commercial Laser, 12-channel."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/delhi/comments/1sdg01q/ranking_imax_screens_in_delhi_ncr_by_size_and/",
+          "note": "April 2026 size ranking: about 53 by 30 ft, CoLa, 12-channel. A commenter reported blur in 2024."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/kdcloudy/status/2117529034569777418",
+          "note": "3 November 2026: a viewer called a 4K 3D show at Select Citywalk IMAX excellent."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-select"
+    },
+    {
+      "id": "pvr-vegas",
+      "name": "PVR Vegas IMAX",
+      "chain": "PVR",
+      "city": "delhi",
+      "area": "Dwarka",
+      "address": "Vegas Mall, Dwarka, New Delhi",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "4DX in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "One of the wider Delhi IMAX walls, still dual xenon in every 2026 source read here. The booking census also shows 4DX at Vegas, which is another auditorium.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. 4DX, IMAX, and Luxe at Vegas."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/delhi/comments/1sdg01q/ranking_imax_screens_in_delhi_ncr_by_size_and/",
+          "note": "April 2026 size ranking: about 68 by 38 ft, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-vegas"
+    },
+    {
+      "id": "inox-paras",
+      "name": "INOX Paras IMAX",
+      "chain": "INOX",
+      "city": "delhi",
+      "area": "Nehru Place",
+      "address": "Paras Cinema building, Nehru Place, New Delhi",
+      "formats": [
+        "imax",
+        "iconic"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "A laser rebuild of the old Paras cinema. Smaller than Priya. A 2025 quality ranking liked the picture and called six-channel sound enough for the room.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. The booking name includes a sponsor prefix; the hall is INOX Paras, Nehru Place."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: XT Laser."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imax/comments/1i4llpi/all_imax_venues_in_delhi_ncr_ranked_interstellar/",
+          "note": "r/imax: laser rebuild of an iconic theatre, smaller room, strong picture."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-paras"
+    },
+    {
+      "id": "inox-vishal",
+      "name": "INOX Vishal IMAX",
+      "chain": "INOX",
+      "city": "delhi",
+      "area": "Rajouri Garden",
+      "address": "Vishal Cinema, Rajouri Garden, New Delhi",
+      "formats": [
+        "imax",
+        "iconic"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "West Delhi laser IMAX in the old Vishal house. Enthusiast rankings call it one of the smaller IMAX screens in the NCR. A July 2026 commenter who compared it with Logix preferred not to recommend it.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: XT Laser."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/delhi/comments/1sdg01q/ranking_imax_screens_in_delhi_ncr_by_size_and/",
+          "note": "April 2026 size ranking: about 50 by 26 ft. A later comment called a 2026 visit the worse of two IMAX trips."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-vishal"
+    },
+    {
+      "id": "pvr-nsp-pxl",
+      "name": "PVR Cinemagic Unity One P[XL]",
+      "chain": "PVR",
+      "city": "delhi",
+      "area": "Netaji Subhash Place",
+      "address": "Unity One Elegante, Netaji Subhash Place, Delhi",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A P[XL] in north Delhi, named by the November 2026 fan guide as a flat premium screen. Not an IMAX, and not second-sourced this pass.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "cinepolis-dlf-onyx",
+      "name": "Cinépolis DLF Avenue Onyx",
+      "chain": "Cinépolis",
+      "city": "delhi",
+      "area": "Saket",
+      "address": "DLF Avenue, Saket, New Delhi",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Samsung Onyx",
+        "LED"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "An LED cinema wall rather than a projected IMAX. The November 2026 fan guide treats the screen itself as the draw, and notes that Onyx rooms are usually smaller than IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-jasola-bigpix",
+      "name": "INOX Pacific Mall BigPix",
+      "chain": "INOX",
+      "city": "delhi",
+      "area": "Jasola",
+      "address": "Pacific Mall, Jasola, New Delhi",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "BigPix"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A BigPix at Pacific Jasola. The November 2026 fan guide cites a wide screen. The same complex is also credited with ScreenX, which is a different auditorium.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-jasola-screenx",
+      "name": "INOX Pacific Mall ScreenX",
+      "chain": "INOX",
+      "city": "delhi",
+      "area": "Jasola",
+      "address": "Pacific Mall, Jasola, New Delhi",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "ScreenX"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "ScreenX at Pacific Jasola: a centre screen plus side walls for selected scenes. Listed by the November 2026 fan guide. It is not the BigPix next door.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-faridabad-pxl",
+      "name": "PVR Pacific Mall P[XL]",
+      "chain": "PVR",
+      "city": "delhi",
+      "area": "Faridabad",
+      "address": "Pacific Mall, NIT, Faridabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Faridabad's cited premium large format. One fan guide names a P[XL] here. No IMAX was verified in Faridabad.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-ambience",
+      "name": "PVR Ambience Mall IMAX",
+      "chain": "PVR",
+      "city": "gurugram",
+      "area": "Ambience Mall",
+      "address": "Ambience Mall, Gurugram",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "4DX in the same complex",
+        "ICE in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Gurugram's open IMAX, and the one a 2025 ranking told people to skip if they could reach Select Citywalk. It is dual xenon. 4DX and ICE at Ambience are other auditoriums, not this screen.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. Lists 4DX, IMAX, and ICE at Pepsi PVR Ambience."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: PVR Ambience, dual xenon."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imax/comments/1i4llpi/all_imax_venues_in_delhi_ncr_ranked_interstellar/",
+          "note": "r/imax ranks Ambience last in the NCR and suggests the trip to Select Citywalk."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-ambience"
+    },
+    {
+      "id": "pvr-joy-central",
+      "name": "PVR AIPL Joy Central IMAX",
+      "chain": "PVR",
+      "city": "gurugram",
+      "area": "Gurugram",
+      "address": "AIPL Joy Central, Gurugram",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "Announced"
+      ],
+      "status": "uncertain",
+      "confidence": "low",
+      "why": "A possible second Gurugram IMAX, and the one that would be laser. Do not travel for it until a show is actually on sale.",
+      "sources": [
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: under construction, IMAX Laser."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "A July 2026 enthusiast census listed PVR AIPL Joy Central as an IMAX with Laser under construction. The November 2026 fan guide of open halls does not include it. Not confirmed open on 13 November 2026."
+    },
+    {
+      "id": "miraj-maximum-gurgaon",
+      "name": "Miraj Maximum",
+      "chain": "Miraj",
+      "city": "gurugram",
+      "area": "Metropolis Mall",
+      "address": "Metropolis Mall, Gurugram",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Maximum"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Miraj's own very wide format, cited by the November 2026 fan guide at about 86 ft. That width is one guide's figure. It is not an IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "cinepolis-airia-macro",
+      "name": "Cinépolis Airia Macro XE",
+      "chain": "Cinépolis",
+      "city": "gurugram",
+      "area": "Airia Mall",
+      "address": "Airia Mall, Gurugram",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Macro XE"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A Cinépolis Macro XE. The November 2026 fan guide cites about 56 ft. One source only.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-logix",
+      "name": "PVR Superplex Logix IMAX",
+      "chain": "PVR",
+      "city": "noida",
+      "area": "Sector 32",
+      "address": "Logix City Centre, Sector 32, Noida",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "4DX in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "The older, larger commercial IMAX in Noida, still dual xenon. People choose it for width and complain about the seats and the 2K picture. 4DX here is another screen.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. 4DX and IMAX at PVR Superplex Logix, Sector 32."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon. A comment that month preferred Mall of India's laser over Logix's size."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/delhi/comments/1sdg01q/ranking_imax_screens_in_delhi_ncr_by_size_and/",
+          "note": "April 2026 size ranking puts Logix first in the NCR at about 70 by 40 ft, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "A July 2026 Reddit comment calls it Bhutani City Centre. The September 2026 booking census still sells it as PVR Superplex Logix, Sector 32. Width notes cluster around 70 ft, which is a community figure, and a July 2026 visitor said the xenon picture was showing its age against Mall of India's laser.",
+      "repoScreenId": "pvr-logix"
+    },
+    {
+      "id": "pvr-mall-of-india",
+      "name": "PVR Superplex Mall of India IMAX",
+      "chain": "PVR",
+      "city": "noida",
+      "area": "Sector 18",
+      "address": "Mall of India, Sector 18, Noida",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser",
+        "12-channel",
+        "4DX in the same complex",
+        "P[XL] in the same complex"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Noida's laser IMAX, with 12-channel sound in the enthusiast census. Go for the projector, not for a record-breaking wall. The P[XL] and 4DX at Mall of India are other auditoriums.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. IMAX, 4DX, and P[XL] at Mall of India."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: XT Laser. A visitor that month ranked the laser above Logix despite a smaller screen."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/delhi/comments/1sdg01q/ranking_imax_screens_in_delhi_ncr_by_size_and/",
+          "note": "April 2026: about 45 by 24 ft, XT Laser, 12-channel, and complaints about the seating."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/kdcloudy/status/2063674272854474766",
+          "note": "7 June 2026 laser shortlist includes PVR Mall of India, Noida."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "November 2026 guide lists the IMAX Laser and a separate P[XL] at Mall of India."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "Open and laser is agreed. Size is not. An April 2026 r/delhi ranking calls this the smallest IMAX in the NCR, about 45 by 24 ft, with poor legroom. An older note in this project's size repository treated venue-guide metres as one of the country's largest commercial screens. A July 2026 visitor liked the laser and the smaller wall more than Logix. No width is shown.",
+      "repoScreenId": "pvr-mall-of-india"
+    },
+    {
+      "id": "pvr-moi-pxl",
+      "name": "PVR Superplex Mall of India P[XL]",
+      "chain": "PVR",
+      "city": "noida",
+      "area": "Sector 18",
+      "address": "Mall of India, Sector 18, Noida",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A P[XL] in the same superplex as the laser IMAX. The booking census and the November 2026 fan guide both name the format. It is not the IMAX.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "23 September 2026 census lists P[XL] at PVR Superplex Mall of India."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-nexus-koramangala",
+      "name": "PVR Nexus Koramangala IMAX",
+      "chain": "PVR",
+      "city": "bengaluru",
+      "area": "Koramangala",
+      "address": "Nexus Mall (Forum), Koramangala, Bengaluru",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser",
+        "12-channel",
+        "4DX in the same complex"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "The in-city Bengaluru IMAX that 2026 sources treat as the laser house, with 12-channel sound. Do not assume every Bengaluru IMAX has been upgraded. 4DX at Nexus is another screen.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. IMAX and 4DX at PVR Nexus, Koramangala."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: XT Laser, 12-channel. Other Bengaluru IMAX houses on that list are dual xenon."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/Naman_IMAX/status/2064268102536511919",
+          "note": "9 June 2026 Bengaluru guide: PVR Nexus Koramangala is IMAX with Laser; Vega City is xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "2026 posts, the July 2026 IMAX census, and the November 2026 fan guide call this XT Laser with 12-channel sound. An older community sheet used by this project's size repository called it xenon. The open IMAX is not in dispute. The projector generation is, if you are holding an older note.",
+      "repoScreenId": "pvr-nexus-koramangala"
+    },
+    {
+      "id": "pvr-vega",
+      "name": "PVR Vega City IMAX",
+      "chain": "PVR",
+      "city": "bengaluru",
+      "area": "Bannerghatta Road",
+      "address": "Vega City, Bannerghatta Road, Bengaluru",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "4DX in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "One of Bengaluru's wider cited IMAX screens, and still xenon in the 2026 sources. 4DX at Vega City is another auditorium.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/Naman_IMAX/status/2064268102536511919",
+          "note": "9 June 2026: Vega City listed as IMAX xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-vega"
+    },
+    {
+      "id": "pvr-vr-bengaluru",
+      "name": "PVR VR Bengaluru IMAX",
+      "chain": "PVR",
+      "city": "bengaluru",
+      "area": "Whitefield",
+      "address": "VR Bengaluru, Whitefield Road, Bengaluru",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Whitefield's large xenon IMAX. Do not confuse it with PVR Phoenix Marketcity, which a booking census also tags as IMAX and which this list keeps uncertain.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: PVR VR Bengaluru, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-vr-bengaluru"
+    },
+    {
+      "id": "cinepolis-shantiniketan",
+      "name": "Cinépolis Nexus Shantiniketan IMAX",
+      "chain": "Cinépolis",
+      "city": "bengaluru",
+      "area": "Whitefield",
+      "address": "Nexus Shantiniketan, Whitefield, Bengaluru",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "4DX in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "The other Whitefield IMAX, smaller in the fan notes than VR Bengaluru, and still xenon. 4DX is a separate screen at the same mall.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "cinepolis-shantiniketan"
+    },
+    {
+      "id": "inox-galleria",
+      "name": "INOX Galleria IMAX",
+      "chain": "INOX",
+      "city": "bengaluru",
+      "area": "Yelahanka",
+      "address": "Galleria Mall, Yelahanka, Bengaluru",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "North Bengaluru's IMAX. Dual xenon in the July 2026 census.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: INOX RMZ Galleria, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-galleria"
+    },
+    {
+      "id": "inox-mantri",
+      "name": "INOX Mantri Square IMAX",
+      "chain": "INOX",
+      "city": "bengaluru",
+      "area": "Malleshwaram",
+      "address": "Mantri Square, Malleshwaram, Bengaluru",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "Insignia in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "A smaller north-west IMAX, useful when Koramangala is impossible. Dual xenon in the 2026 census. Insignia at Mantri is a recliner brand, not this screen.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-mantri"
+    },
+    {
+      "id": "pvr-phoenix-marketcity-bengaluru",
+      "name": "PVR Phoenix Marketcity IMAX",
+      "chain": "PVR",
+      "city": "bengaluru",
+      "area": "Whitefield Road",
+      "address": "Phoenix Marketcity, Whitefield Road, Bengaluru",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Unconfirmed projector"
+      ],
+      "status": "uncertain",
+      "confidence": "low",
+      "why": "Listed only so a booking-site IMAX tag is not mistaken for a verified seventh Bengaluru IMAX. Check the show page, and do not prefer it over VR Bengaluru on this entry alone.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "The 23 September 2026 booking census lists a PVR Phoenix Marketcity on Whitefield Road with IMAX and 4DX. The July 2026 IMAX census and the 9 November 2026 fan guide name VR Bengaluru and Vega City, and do not name this hall. It may be a bad tag, a rename, or a seventh screen. It is not confirmed here."
+    },
+    {
+      "id": "amb-bengaluru-dolby",
+      "name": "AMB Cinemas Kapali Dolby Cinema",
+      "chain": "AMB",
+      "city": "bengaluru",
+      "area": "Gandhinagar",
+      "address": "AMB Cinemas, Kapali, Gandhinagar, Bengaluru",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Dolby Cinema",
+        "Dolby Vision"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Bengaluru's Dolby Cinema, the picture-quality room rather than another xenon IMAX. A fan guide cites about 65 ft. The September 2026 Dolby booking list and that guide agree the format is here.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/dolby-cinema",
+          "note": "Dolby Cinema booking census, 23 September 2026: AMB Cinemas Kapali, Gandhinagar."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/Naman_IMAX/status/2064268102536511919",
+          "note": "9 June 2026 Bengaluru guide lists AMB Kapali as Dolby Cinema, in scope."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "amb-bengaluru-dolby"
+    },
+    {
+      "id": "pvr-forum-kanakapura-pxl",
+      "name": "PVR Forum Mall P[XL]",
+      "chain": "PVR",
+      "city": "bengaluru",
+      "area": "Kanakapura Road",
+      "address": "Forum Mall, Kanakapura Road, Bengaluru",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A south Bengaluru P[XL], named by the November 2026 fan guide. Not an IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-orion-pxl",
+      "name": "PVR Orion Mall P[XL]",
+      "chain": "PVR",
+      "city": "bengaluru",
+      "area": "Malleshwaram",
+      "address": "Orion Mall, Malleshwaram, Bengaluru",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A P[XL] at Orion, distinct from the Mantri Square IMAX nearby. One fan guide.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-bhartiya-pxl",
+      "name": "PVR Bhartiya Mall P[XL]",
+      "chain": "PVR",
+      "city": "bengaluru",
+      "area": "Kannuru",
+      "address": "Bhartiya Mall, Kannuru, Bengaluru",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A north-east P[XL]. One November 2026 fan guide. Not second-sourced.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-mall-of-asia-screenx",
+      "name": "INOX Mall of Asia ScreenX",
+      "chain": "INOX",
+      "city": "bengaluru",
+      "area": "Byatarayanapura",
+      "address": "Phoenix Mall of Asia, Byatarayanapura, Bengaluru",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "ScreenX"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "ScreenX at the Mall of Asia megaplex. The side walls are the point of the format, and only some scenes use them. One fan guide.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "cinepolis-lulu-macro",
+      "name": "Cinépolis Lulu Mall Macro XE",
+      "chain": "Cinépolis",
+      "city": "bengaluru",
+      "area": "Rajajinagar",
+      "address": "Lulu Mall, Rajajinagar, Bengaluru",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Macro XE"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A Macro XE at Lulu Mall. One November 2026 fan guide. Not an IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-ecity-bigpix",
+      "name": "INOX M5 ECity BigPix",
+      "chain": "INOX",
+      "city": "bengaluru",
+      "area": "Electronic City",
+      "address": "M5 ECity Mall, Electronic City, Bengaluru",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "BigPix"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Electronic City's BigPix. The same fan guide also names an Onyx at this mall. One source.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "prasads-imax-former",
+      "name": "Prasads IMAX (former)",
+      "chain": "Prasads",
+      "city": "hyderabad",
+      "area": "Khairatabad",
+      "address": "Prasads Multiplex, Necklace Road, Khairatabad, Hyderabad",
+      "formats": [
+        "imax",
+        "iconic"
+      ],
+      "tags": [
+        "Closed as IMAX",
+        "Was 1.43:1"
+      ],
+      "status": "closed",
+      "confidence": "high",
+      "why": "Once one of the first and largest IMAX screens in India. It is closed as IMAX. Do not book a 'Prasads IMAX' ticket expecting IMAX projection.",
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.imax.com/pr/asian-cinemas-and-imax-launch-partnership-three-new-imax-laser",
+          "note": "1 June 2026: Prasads IMAX closed in 2015; the new deal is meant to bring IMAX back to Hyderabad."
+        },
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "23 September 2026 census still tags Prasads Multiplex, Khairatabad, as IMAX."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/rohithklv/status/2041916847868801205",
+          "note": "8 April 2026: a Hyderabad formats post says the city does not have IMAX."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "IMAX Corporation said on 1 June 2026 that the Prasads IMAX closed in 2015 and that Hyderabad had been without an IMAX for a decade. A 23 September 2026 booking census still tagged Prasads Multiplex as IMAX. The room that plays now is the PCX, listed separately."
+    },
+    {
+      "id": "amb-classic-imax",
+      "name": "AMB Classic IMAX",
+      "chain": "AMB",
+      "city": "hyderabad",
+      "area": "RTC X Roads",
+      "address": "AMB Classic, RTC X Roads, Hyderabad",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "Announced"
+      ],
+      "status": "uncertain",
+      "confidence": "low",
+      "why": "The announced return of IMAX to Hyderabad, at AMB Classic. It is not a reason to travel until a show is on sale. Two further AMB IMAX sites were planned for 2028, not this year.",
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://www.imax.com/pr/asian-cinemas-and-imax-launch-partnership-three-new-imax-laser",
+          "note": "1 June 2026 IMAX and Asian Cinemas: first laser location at AMB Classic before the end of 2026. IMAX counted 34 open locations that day, which did not include Hyderabad."
+        },
+        {
+          "type": "press",
+          "url": "https://variety.com/2026/film/news/mahesh-babu-amb-cinemas-imax-hyderabad-varanasi-1236763304/",
+          "note": "Variety reported the same three-site laser agreement."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/tollywood/comments/1ttvoyp/details_about_the_imax_at_amb_classic_rtc_x_roads/",
+          "note": "r/tollywood discussion speculates about size. Not used as a measurement."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "Announced 1 June 2026 to open before the end of 2026, with IMAX with Laser. Instagram posts around the announcement said late November or December. This pass, on 13 November 2026, found no chain confirmation that tickets were on sale. A Reddit size guess of a giant 1.43 dual-laser was not backed by the IMAX release, which does not publish a screen size.",
+      "repoScreenId": "amb-classic-imax"
+    },
+    {
+      "id": "prasads-pcx",
+      "name": "Prasads PCX",
+      "chain": "Prasads",
+      "city": "hyderabad",
+      "area": "Khairatabad",
+      "address": "Prasads Multiplex, Necklace Road, Khairatabad, Hyderabad",
+      "formats": [
+        "plf",
+        "iconic"
+      ],
+      "tags": [
+        "PCX",
+        "Dual 4K laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "The former IMAX shell, refitted as PCX with dual 4K laser. Hyderabad Theatres prints about 98.6 by 64 ft. It is the giant in the city, and it is not IMAX. A fan guide's 'about 99 ft' matches that width closely enough to cite, not to re-measure.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres specs, read for this project's size repository in November 2026: Screen 6 PCX, 98.6 by 64 ft, dual 4K laser."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "9 November 2026: PCX, flat, about 99 ft, dual Barco 4K laser, Atmos, redesigned in 2022, no longer IMAX."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/_g10draw/status/2037759518533439903",
+          "note": "28 March 2026 premium-screen list leads Hyderabad with Prasads HDR and does not call PCX an IMAX."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "prasads-pcx"
+    },
+    {
+      "id": "prasads-hdr",
+      "name": "Prasads HDR by Barco",
+      "chain": "Prasads",
+      "city": "hyderabad",
+      "area": "Khairatabad",
+      "address": "Prasads Multiplex, Necklace Road, Khairatabad, Hyderabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "HDR by Barco"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "A separate Barco HDR auditorium at Prasads, not the giant PCX. Hyderabad Theatres prints 59.2 by 31.3 ft for the HDR screen. People recommend it for the picture, beside the PCX for the wall.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres: Prasads Screen 3, 59.2 by 31.3 ft, 4K laser, listed in the size repository as HDR by Barco."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "November 2026 guide: HDR by Barco, flat, about 60 ft."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/_g10draw/status/2037759518533439903",
+          "note": "28 March 2026: Prasads HDR by Barco, 59 by 31 ft, Atmos."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "prasads-hdr"
+    },
+    {
+      "id": "amb-hyderabad",
+      "name": "AMB Cinemas HDR by Barco",
+      "chain": "AMB",
+      "city": "hyderabad",
+      "area": "Kondapur",
+      "address": "AMB Cinemas, Sarath City Capital Mall, Kondapur, Hyderabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "HDR by Barco"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "The Gachibowli–Kondapur AMB, which is not the RTC X Roads Classic. This is the Barco HDR house cinephiles already use. It is not the announced IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres lists an AMB HDR screen. The size repository ties it to Sarath City, Kondapur."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "November 2026 guide: AMB Cinemas, Gachibowli, HDR by Barco, about 60 ft."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/rohithklv/status/2041916847868801205",
+          "note": "8 April 2026: Hyderabad has HDR by Barco and does not have IMAX."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "amb-hyderabad"
+    },
+    {
+      "id": "allu-dolby",
+      "name": "Allu Cinemas Dolby Cinema",
+      "chain": "Allu Cinemas",
+      "city": "hyderabad",
+      "area": "Kokapet",
+      "address": "Allu Cinemas, Kokapet, Hyderabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Dolby Cinema",
+        "Dolby Vision"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Hyderabad's Dolby Cinema. Hyderabad Theatres and a March 2026 post agree on about 75 by 40 ft with Dolby Vision laser. The September 2026 Dolby booking list includes it. This is the picture room, not an IMAX substitute for a 1.43 frame.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/dolby-cinema",
+          "note": "Dolby Cinema census, 23 September 2026: Allu Cinemas, Kokapet."
+        },
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres theatre page, used by the size repository: Allu Dolby 75 by 40 ft."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/_g10draw/status/2037759518533439903",
+          "note": "28 March 2026: Allu Dolby Cinema, 75 by 40 ft, dual Christie Dolby Vision."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "allu-dolby"
+    },
+    {
+      "id": "aaa-epiq",
+      "name": "AAA Cinemas EPIQ",
+      "chain": "AAA",
+      "city": "hyderabad",
+      "area": "Ameerpet",
+      "address": "AAA Cinemas, Ameerpet, Hyderabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "EPIQ",
+        "LED"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "An EPIQ LED room at AAA Ameerpet. The size repository, from Hyderabad Theatres, has this screen near 30 ft wide, which is a small LED wall rather than a giant. A fan guide calls it Luxon/LED and flat. The draw is the LED picture, not the acreage.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres: AAA Screen 2 EPIQ LED, about 30 ft wide."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/rohithklv/status/2041916847868801205",
+          "note": "8 April 2026 formats post includes EPIQ and LED among Hyderabad's premium rooms."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "aaa-epiq"
+    },
+    {
+      "id": "art-epiq",
+      "name": "ART Cinemas EPIQ",
+      "chain": "ART",
+      "city": "hyderabad",
+      "area": "Vanasthalipuram",
+      "address": "ART Cinemas, Tattva Mall, Vanasthalipuram, Hyderabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "EPIQ"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "A projected EPIQ, not the little AAA LED. Hyderabad Theatres prints about 57 ft wide at 1.89:1 with 4K laser and Atmos. The fan guide names the same hall.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres: ART Screen 6 EPIQ, about 57 ft, 1.89:1, 4K laser, Atmos."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "art-epiq"
+    },
+    {
+      "id": "lakeshore-pxl",
+      "name": "PVR Lakeshore P[XL]",
+      "chain": "PVR",
+      "city": "hyderabad",
+      "area": "Kukatpally",
+      "address": "PVR, Lakeshore Mall, Kukatpally, Hyderabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "A flat P[XL]. Hyderabad Theatres prints about 55 ft at 1.89:1. The fan guide names the same screen.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres: Lakeshore Audi 6 PXL, about 55 ft, 1.89:1, 4K laser, Atmos."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "lakeshore-pxl"
+    },
+    {
+      "id": "inorbit-pxl",
+      "name": "PVR Inorbit P[XL]",
+      "chain": "PVR",
+      "city": "hyderabad",
+      "area": "Madhapur",
+      "address": "PVR Superplex, Inorbit Mall, Madhapur, Hyderabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Another Hyderabad P[XL], about 55 ft on the Hyderabad Theatres row, in scope rather than flat. Named again by the November 2026 fan guide.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres: Inorbit Screen 11 PXL, about 55 ft, 2.39:1."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inorbit-pxl"
+    },
+    {
+      "id": "cinepolis-macro",
+      "name": "Cinépolis TNR North City Macro XE",
+      "chain": "Cinépolis",
+      "city": "hyderabad",
+      "area": "Suchitra",
+      "address": "Cinépolis, TNR North City, Suchitra, Hyderabad",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Macro XE"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "A Macro XE at about 57 ft on the Hyderabad Theatres row, 4K laser and Atmos. The fan guide names the same hall.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres: Cinepolis Audi 7 Macro XE, about 57 ft, 2.39:1."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "cinepolis-macro"
+    },
+    {
+      "id": "devi-70mm",
+      "name": "Devi 70MM",
+      "chain": "Devi",
+      "city": "hyderabad",
+      "area": "RTC X Roads",
+      "address": "Devi 70MM, RTC X Roads, Hyderabad",
+      "formats": [
+        "iconic"
+      ],
+      "tags": [
+        "Single screen",
+        "Scope"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "The wide scope single screen at RTC X Roads. Hyderabad Theatres prints about 83 ft. The name is historical: the size repository lists a 4K laser projector, not a 70mm film print. It is the iconic hall, not an IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://www.hyderabadtheatres.com/specs/",
+          "note": "Hyderabad Theatres: Devi 70MM, about 83 ft wide, 4K laser in the size repository's reading of the row."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "November 2026 guide: Devi 70mm, Chikkadpally, single screen, about 83 ft."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "devi-70mm"
+    },
+    {
+      "id": "pvr-palazzo",
+      "name": "PVR Palazzo IMAX",
+      "chain": "PVR",
+      "city": "chennai",
+      "area": "Vadapalani",
+      "address": "Nexus Vijaya Mall, Vadapalani, Chennai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser",
+        "12-channel"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Chennai's flagship IMAX, now described as laser by every 2026 source read here, after a period when the laser branding was not believed. Book a current show; do not trust a pre-upgrade width.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "23 September 2026 census lists PVR Palazzo, Nexus Vijaya, as an open IMAX."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/Chennai/comments/1nk00wu/has_palazzo_imax_upgraded_to_laser/",
+          "note": "September 2025: visitors disputed the laser sign. 19 November 2025: a commenter said it had closed for the upgrade."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: Palazzo, XT Laser, 12-channel."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/Dszsrikanth/status/2002318774968721641",
+          "note": "20 December 2025: a post says Chennai IMAX screens were upgraded from xenon to Laser XT."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/Teerth_Upadhyay/status/2104124461608026593",
+          "note": "27 September 2026: a viewer compared 2019 xenon at Palazzo with 2026 laser 4K."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "In September 2025, r/Chennai visitors said a 'IMAX with Laser' stand at Palazzo was still dual projection and not laser, and one comment said only Coimbatore was laser. On 19 November 2025 a commenter said the hall had closed for a real laser upgrade. December 2025 and 2026 posts, plus the July 2026 census and the November 2026 fan guide, call it XT Laser with 12-channel sound. The old 70 ft figure is from before that refit and is not repeated as a current size.",
+      "repoScreenId": "pvr-palazzo"
+    },
+    {
+      "id": "inox-phoenix-chennai",
+      "name": "INOX Phoenix Marketcity IMAX",
+      "chain": "INOX",
+      "city": "chennai",
+      "area": "Velachery",
+      "address": "Phoenix Marketcity, Velachery, Chennai",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Chennai's other IMAX, still xenon in the 2026 census. The fan guide cites about 63 ft. Formerly Jazz Cinemas, according to the booking census. It is not the Palazzo laser.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. INOX Phoenix Market City, formerly Jazz, Velachery."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: INOX Luxe Phoenix Mall, dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-phoenix-chennai"
+    },
+    {
+      "id": "inox-marina-bigpix",
+      "name": "INOX Marina Mall BigPix",
+      "chain": "INOX",
+      "city": "chennai",
+      "area": "OMR",
+      "address": "Marina Mall, Old Mahabalipuram Road, Chennai",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "BigPix"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A very wide BigPix on OMR. The November 2026 fan guide cites about 82 ft, and this project's size repository had the same community figure with no height. One guide plus that earlier citation. Not an IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/imax-india-list",
+          "note": "The size repository's earlier BigPix note used a community sheet. The November 2026 fan guide is the source relied on here for the hall still being the one to name."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-marina-bigpix"
+    },
+    {
+      "id": "rakki-epiq",
+      "name": "Rakki Cinemas EPIQ",
+      "chain": "Rakki",
+      "city": "chennai",
+      "area": "Kelambakkam",
+      "address": "Rakki Cinemas, Kelambakkam, Chennai",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "EPIQ"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "An EPIQ on the southern edge of the city, named by the November 2026 fan guide. Not second-sourced.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-vr-chennai-pxl",
+      "name": "PVR VR Mall P[XL]",
+      "chain": "PVR",
+      "city": "chennai",
+      "area": "Anna Nagar",
+      "address": "VR Mall, Anna Nagar, Chennai",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "An Anna Nagar P[XL]. One November 2026 fan guide. Not the Velachery IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-millennium",
+      "name": "INOX Phoenix Mall of the Millennium IMAX",
+      "chain": "INOX",
+      "city": "pune",
+      "area": "Wakad",
+      "address": "Phoenix Mall of the Millennium, Wakad, Pune",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser",
+        "Insignia in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Pune's laser IMAX. The enthusiast census and the fan guide agree on the projector class. Community widths exist and are not repeated, because they were not re-measured.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: XT Laser."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/imax-india-list",
+          "note": "Laser list includes INOX Phoenix Mall of the Millennium, Pune."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-millennium"
+    },
+    {
+      "id": "cinepolis-westend",
+      "name": "Cinépolis Nexus Westend IMAX",
+      "chain": "Cinépolis",
+      "city": "pune",
+      "area": "Aundh",
+      "address": "Nexus Westend, Aundh, Pune",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Pune's older IMAX, dual xenon, and the one to use when Wakad is the wrong side of the city.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "cinepolis-westend"
+    },
+    {
+      "id": "city-pride-dolby",
+      "name": "City Pride Dolby Cinema",
+      "chain": "City Pride",
+      "city": "pune",
+      "area": "Kharadi",
+      "address": "City Pride, Nyati Plaza, Kharadi, Pune",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Dolby Cinema",
+        "Dolby Vision"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Pune's Dolby Cinema. The September 2026 Dolby booking list and the November 2026 fan guide agree. The fan guide says the screen is flat but closer to 2.1:1 than a standard flat frame. No width is adopted here.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/dolby-cinema",
+          "note": "Dolby Cinema census, 23 September 2026: City Pride Multiplex, Nyati Plaza, Kharadi."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "esquare-epiq",
+      "name": "E-Square EPIQ",
+      "chain": "E-Square",
+      "city": "pune",
+      "area": "Pune",
+      "address": "E-Square Cinemas, VJ Happiness Street, Pune",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "EPIQ"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "An EPIQ named by the November 2026 fan guide. One source.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-hinjewadi-pxl",
+      "name": "PVR Grand Highstreet P[XL]",
+      "chain": "PVR",
+      "city": "pune",
+      "area": "Hinjewadi",
+      "address": "Grand Highstreet, Hinjewadi, Pune",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A Hinjewadi P[XL], flat according to the fan guide. One source.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-south-city",
+      "name": "INOX South City IMAX",
+      "chain": "INOX",
+      "city": "kolkata",
+      "area": "Jadavpur",
+      "address": "South City Mall, Jadavpur, Kolkata",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "Insignia in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Kolkata's commercial IMAX, dual xenon in the 2026 census. Not a giant by the national fan notes. Insignia is another brand in the same multiplex.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon. The only Kolkata IMAX on that list."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/imax-india-list",
+          "note": "IMAX list: INOX South City Mall, Jadavpur."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-south-city"
+    },
+    {
+      "id": "pvr-mani-pxl",
+      "name": "PVR Mani Square P[XL]",
+      "chain": "PVR",
+      "city": "kolkata",
+      "area": "EM Bypass",
+      "address": "Mani Square, EM Bypass, Kolkata",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "The Kolkata premium screen people mention when they are not going to South City for IMAX. Treat any huge width as unverified.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "A community sheet used by this project's size repository called this one of the widest premium screens in India. That width was never a chain measurement. The November 2026 fan guide still calls it a flat P[XL] around 85 ft. The number stays off the card.",
+      "repoScreenId": "pvr-mani-pxl"
+    },
+    {
+      "id": "inox-quest-screenx",
+      "name": "INOX Quest Mall ScreenX",
+      "chain": "INOX",
+      "city": "kolkata",
+      "area": "Ballygunge",
+      "address": "Quest Mall, Ballygunge, Kolkata",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "ScreenX"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "ScreenX at Quest Mall. One November 2026 fan guide. The side walls are the format, not a taller IMAX picture.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-phoenix-ahmedabad",
+      "name": "PVR Phoenix Palladium IMAX",
+      "chain": "PVR",
+      "city": "ahmedabad",
+      "area": "Thaltej",
+      "address": "Phoenix Palladium, Thaltej, Ahmedabad",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Ahmedabad's commercial IMAX, XT Laser in the 2026 census and the fan guide. This is the hall that plays new films.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. PVR Palladium Mall, Thaltej."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: XT Laser."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/imax-india-list",
+          "note": "Laser list includes PVR Phoenix Palladium, Ahmedabad."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-phoenix-ahmedabad"
+    },
+    {
+      "id": "science-city-imax",
+      "name": "Gujarat Science City IMAX",
+      "chain": "Gujarat Science City",
+      "city": "ahmedabad",
+      "area": "Science City",
+      "address": "Gujarat Science City, Science City Road, Ahmedabad",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "15/70",
+        "1.43:1",
+        "Not a release cinema"
+      ],
+      "status": "uncertain",
+      "confidence": "low",
+      "why": "The only hall in this set that anyone still claims is a 1.43:1 15/70 IMAX. It has never been where a Friday release plays. Whether the film projector is still running is in conflict as of November 2026.",
+      "sources": [
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: 15/70 GT, documentaries, about 96 by 67 ft, 651 seats claimed by that post."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "9 November 2026 fan guide: 'India has neither' 70mm IMAX nor GT laser, and points to a separate 70mm article."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/70mm-imax-india",
+          "note": "Linked from the 9 November 2026 guide as the claim that India has no 70mm IMAX. Not re-read in full this pass."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "A July 2026 enthusiast census calls this India's only 15/70 GT IMAX, about 96 by 67 ft, documentaries only, and still film. An IMAX venue-guide row used by this project's size repository lists 29.00 by 20.04 m (about 95.1 by 65.7 ft), commercial films no. A fan guide updated 9 November 2026 says India has neither 70mm IMAX nor GT laser. It is not on the September 2026 commercial booking census, which fits a non-release house and also fits a closure. Do not travel for a film print without checking the day's programme.",
+      "repoScreenId": "science-city-imax"
+    },
+    {
+      "id": "pvr-pacific-jaipur",
+      "name": "PVR INOX Pacific Mall IMAX",
+      "chain": "PVR INOX",
+      "city": "jaipur",
+      "area": "Mansarovar",
+      "address": "Pacific Mall, VT Road, Mansarovar, Jaipur",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "4K laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Rajasthan's first IMAX with Laser. PVR INOX posted on 5 November 2026 that it was open at Pacific Mall, Mansarovar, with Ramayana. A fan guide updated 9 November 2026 lists the same hall. It was absent from the 23 September booking census because it had not opened yet. A five-screen cinema; the IMAX is one of them. Seat totals in the launch notes are for the whole cinema.",
+      "sources": [
+        {
+          "type": "official",
+          "url": "https://x.com/INOXMovies/status/2118208422818795777",
+          "note": "INOX Movies, 5 November 2026: Rajasthan's first IMAX with Laser, now open at PVR INOX, Pacific Mall, Mansarovar."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Guide updated 9 November 2026 lists PVR Pacific Mall, Mansarovar, as IMAX Laser."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/imax-india-list",
+          "note": "The companion IMAX list includes PVR Pacific Mall, Mansarover."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "rajmandir",
+      "name": "Rajmandir",
+      "chain": "Rajmandir",
+      "city": "jaipur",
+      "area": "Jaipur",
+      "address": "Rajmandir Cinema, Jaipur",
+      "formats": [
+        "iconic"
+      ],
+      "tags": [
+        "Single screen"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Jaipur's landmark single screen. The November 2026 fan guide still lists it and cites about 73 ft. That width is one guide's figure. A street address and a current show were not re-checked on a booking page.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "cinepolis-kochi",
+      "name": "Cinépolis Centre Square IMAX",
+      "chain": "Cinépolis",
+      "city": "kochi",
+      "area": "Ernakulam",
+      "address": "Centre Square Mall, Ernakulam, Kochi",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Kochi's laser IMAX. Modest next to Wadala or Logix, and the only confirmed IMAX in the city.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. Two Kochi rows share Centre Square Mall, Ernakulam."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: one Kochi IMAX, Cinepolis Centre Square, XT Laser."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/imax-india-list",
+          "note": "Laser list: Cinepolis Centre Square Mall, Kochi."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "The September 2026 booking census lists both Cinépolis Centre Square and Cinépolis VIP Centre Square as IMAX. The July 2026 census and the November 2026 fan guide count one Kochi IMAX, at Centre Square. The VIP line is treated as the same complex, not a second IMAX, until a floor plan says otherwise.",
+      "repoScreenId": "cinepolis-kochi"
+    },
+    {
+      "id": "pvr-mymoon",
+      "name": "PVR Mymoon P[XL]",
+      "chain": "PVR",
+      "city": "kochi",
+      "area": "Kaloor",
+      "address": "PVR Mymoon, North Kaloor, Kochi",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A wide P[XL] at Mymoon. The November 2026 fan guide cites about 73 ft and does not publish a height. The size repository had the same community width and left the height blank. Not an IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-mymoon"
+    },
+    {
+      "id": "evm-fort-kochi",
+      "name": "EVM Cinemas Dolby Cinema",
+      "chain": "EVM",
+      "city": "kochi",
+      "area": "Fort Kochi",
+      "address": "EVM Cinemas, Fort Kochi",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "Dolby Cinema"
+      ],
+      "status": "uncertain",
+      "confidence": "low",
+      "why": "A possible Dolby Cinema that the booking snapshot does not support. Do not cross the city for it on this entry.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/dolby-cinema",
+          "note": "23 September 2026 Dolby Cinema census does not list Kochi."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "The November 2026 fan guide lists a Dolby Cinema at EVM Fort Kochi, with an unusual 2.1:1 note. The 23 September 2026 Dolby booking census lists four Dolby Cinemas in India and Fort Kochi is not one of them (Bengaluru, Hyderabad, Pune, Trichy)."
+    },
+    {
+      "id": "pvr-forum-maradu-pxl",
+      "name": "PVR Forum Mall P[XL]",
+      "chain": "PVR",
+      "city": "kochi",
+      "area": "Maradu",
+      "address": "Forum Mall, Maradu, Kochi",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A smaller flat P[XL] at Forum Maradu. The fan guide cites about 54 ft. One source.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-cp67-mohali",
+      "name": "PVR CP67 P[XL]",
+      "chain": "PVR",
+      "city": "chandigarh",
+      "area": "Mohali, Sector 67",
+      "address": "CP67 Mall, Sector 67, Mohali",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "The tricity premium screen this pass could cite. It is in Mohali, not inside Chandigarh city. A June 2026 laser shortlist and the November 2026 fan guide both name a 4K P[XL] here. No Chandigarh IMAX was verified. A BookMyShow page for PVR Elante showed IMAX and Dolby as site-wide format chips, which is not evidence that Elante has those screens.",
+      "sources": [
+        {
+          "type": "x",
+          "url": "https://x.com/kdcloudy/status/2063674272854474766",
+          "note": "7 June 2026 shortlist of 4K laser screens includes PVR PXL CP67, Mohali."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "November 2026 guide files it under Mohali (Chandigarh tricity), as a flat P[XL]."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-palassio",
+      "name": "INOX Phoenix Palassio IMAX",
+      "chain": "INOX",
+      "city": "lucknow",
+      "area": "Gomti Nagar",
+      "address": "Phoenix Palassio, Amar Shaheed Path, Gomti Nagar, Lucknow",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "MX4D in the same complex",
+        "Insignia in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Lucknow's IMAX, dual xenon. The fan guide cites about 60 ft. MX4D and Insignia are other parts of the megaplex, not this picture.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. IMAX, MX4D, and Insignia at Phoenix Palassio."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "inox-palassio"
+    },
+    {
+      "id": "pvr-lulu-lucknow-pxl",
+      "name": "PVR Lulu Mall P[XL]",
+      "chain": "PVR",
+      "city": "lucknow",
+      "area": "Lucknow",
+      "address": "Lulu Mall, Lucknow",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A Lucknow P[XL] at Lulu, named by the November 2026 fan guide. Not the Palassio IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-panaji-bigpix",
+      "name": "INOX Old GMC BigPix",
+      "chain": "INOX",
+      "city": "goa",
+      "area": "Panaji",
+      "address": "INOX, Old GMC, DB Road, Panaji",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "BigPix"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "The only Goa premium screen this pass could cite. The November 2026 fan guide calls it a BigPix of about 70 ft. No Goa IMAX showed up on the booking census or the enthusiast IMAX list.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "inox-citadel-indore",
+      "name": "INOX Phoenix Citadel BigPix",
+      "chain": "INOX",
+      "city": "indore",
+      "area": "Indore",
+      "address": "Phoenix Citadel Mall, Indore",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "BigPix"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Indore's cited premium screen, a flat BigPix at Phoenix Citadel. One November 2026 fan guide. No Indore IMAX was verified.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "rajhans-precia",
+      "name": "Rajhans Precia IMAX",
+      "chain": "Rajhans",
+      "city": "surat",
+      "area": "Rundh–Vesu",
+      "address": "Rajhans Cinemas, Precia Mall, Udhana–Magdalla Road, Surat",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Surat's laser IMAX. The booking census, the July 2026 enthusiast census, and the November 2026 fan guide agree it is open and laser. Community widths are not repeated.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. Rajhans Cinemas, Precia."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: Rajhans Precia, XT Laser. The post spells the mall Precima in one place and the booking census says Precia."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/imax-india-list",
+          "note": "Laser list: Rajhans Precia Mall, Surat."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "rajhans-precia"
+    },
+    {
+      "id": "pvr-rahul-raj-pxl",
+      "name": "PVR Rahul Raj Mall P[XL]",
+      "chain": "PVR",
+      "city": "surat",
+      "area": "Dumas Road",
+      "address": "Rahul Raj Mall, Dumas Road, Surat",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A Surat P[XL] away from the Rajhans IMAX. One November 2026 fan guide.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "melody-hdr-vizag",
+      "name": "Sri Melody Theatre HDR by Barco",
+      "chain": "Melody",
+      "city": "visakhapatnam",
+      "area": "Jagadamba Junction",
+      "address": "Sri Melody Theatre, Jagadamba Junction, Visakhapatnam",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "HDR by Barco"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "Visakhapatnam's cited picture house, a flat Barco HDR. An April 2026 post says the city has HDR by Barco at Melody and does not have IMAX. The November 2026 fan guide cites about 58 ft. No IMAX was found.",
+      "sources": [
+        {
+          "type": "x",
+          "url": "https://x.com/FridayCinema9/status/2042103513736737147",
+          "note": "9 April 2026: Vizag has HDR by Barco at Melody Theatre and does not have IMAX, Dolby Cinema, P[XL], or several other premium brands."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "aaa-vizag-led",
+      "name": "AAA Cinemas Q Luxon LED",
+      "chain": "AAA",
+      "city": "visakhapatnam",
+      "area": "Kailasapuram",
+      "address": "AAA Cinemas, Kailasapuram, Visakhapatnam",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "LED",
+        "Q Luxon"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "An LED screen the November 2026 fan guide cites at about 71 ft. One source. The April 2026 Vizag formats post did not mention it, so it may be newer than that post or easy to miss. Not an IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "broadway-imax",
+      "name": "Broadway Megaplex IMAX",
+      "chain": "Broadway",
+      "city": "coimbatore",
+      "area": "Indira Nagar",
+      "address": "Broadway Megaplex, Indira Nagar, Coimbatore",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "IMAX with Laser",
+        "XT Laser",
+        "12-channel"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "South India's first widely cited laser IMAX, and still the one people in Chennai were told to travel for before Palazzo's upgrade. 12-channel sound is part of the enthusiast description.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. Broadway Cinemas, Coimbatore, on BookMyShow."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: XT Laser, 12-channel."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/Chennai/comments/1nk00wu/has_palazzo_imax_upgraded_to_laser/",
+          "note": "September 2025 r/Chennai: commenters contrasted Palazzo with a real laser IMAX in Coimbatore."
+        },
+        {
+          "type": "x",
+          "url": "https://x.com/orckane/status/2075989230791372840",
+          "note": "11 July 2026: Broadway listed first among south Indian IMAX screens, as IMAX with Laser and 12-channel."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "conflict": "Open and laser is agreed, including by Chennai visitors in 2025 who said Coimbatore was the real laser house. Width is not: a community sheet used earlier in this project said about 66 by 36 ft, and the November 2026 fan guide says about 71 ft. A July 2026 census table also used about 71 by 37 ft. No single width is shown.",
+      "repoScreenId": "broadway-imax"
+    },
+    {
+      "id": "broadway-epiq",
+      "name": "Broadway Megaplex EPIQ",
+      "chain": "Broadway",
+      "city": "coimbatore",
+      "area": "Indira Nagar",
+      "address": "Broadway Megaplex, Indira Nagar, Coimbatore",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "EPIQ"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "An EPIQ in the same Broadway complex as the laser IMAX. The fan guide cites about 70 ft. One source, and it is not the IMAX.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-brookefields-pxl",
+      "name": "PVR Brookefields P[XL]",
+      "chain": "PVR",
+      "city": "coimbatore",
+      "area": "Krishnaswamy Road",
+      "address": "Brookefields Mall, Krishnaswamy Road, Coimbatore",
+      "formats": [
+        "plf"
+      ],
+      "tags": [
+        "P[XL]"
+      ],
+      "status": "open",
+      "confidence": "medium",
+      "why": "A city P[XL] for when Broadway is not the trip. One November 2026 fan guide.",
+      "sources": [
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13"
+    },
+    {
+      "id": "pvr-lulu-tvm",
+      "name": "PVR Lulu Mall IMAX",
+      "chain": "PVR",
+      "city": "thiruvananthapuram",
+      "area": "Akkulam",
+      "address": "Lulu International Shopping Mall, Thiruvananthapuram",
+      "formats": [
+        "imax"
+      ],
+      "tags": [
+        "Dual xenon",
+        "4DX in the same complex"
+      ],
+      "status": "open",
+      "confidence": "high",
+      "why": "Added because it is a real commercial IMAX, even though Thiruvananthapuram was not on the original city list. Dual xenon in the 2026 census. The fan guide cites about 66 ft. 4DX at Lulu is another screen.",
+      "sources": [
+        {
+          "type": "booking",
+          "url": "https://cinemahalls.in/formats/imax",
+          "note": "Booking-site census of halls selling IMAX tickets, read 23 September 2026. PVR Lulu, Trivandrum, with IMAX, 4DX, and Luxe."
+        },
+        {
+          "type": "reddit",
+          "url": "https://www.reddit.com/r/imaxindia/comments/1vapo4e/list_of_all_imax_theatres_in_india/",
+          "note": "July 2026 census: dual xenon."
+        },
+        {
+          "type": "guide",
+          "url": "https://fulminofan.com/best-movie-screens-premium-formats-india",
+          "note": "Fan guide of premium screens, updated 9 November 2026. Sizes in that guide are not repeated here unless a second source agrees."
+        }
+      ],
+      "lastChecked": "2026-11-13",
+      "repoScreenId": "pvr-lulu-tvm"
+    }
+  ]
+}
