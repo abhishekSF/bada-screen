@@ -19,6 +19,7 @@ import { Route as ScreensRouteImport } from './routes/screens'
 import { Route as TrueImaxRouteImport } from './routes/true-imax'
 import { Route as CitiesIndexRouteImport } from './routes/cities.index'
 import { Route as CitiesCityRouteImport } from './routes/cities.$city'
+import { Route as HallsIdRouteImport } from './routes/halls.$id'
 import { Route as PinPinRouteImport } from './routes/pin.$pin'
 import { Route as ScreensIndexRouteImport } from './routes/screens.index'
 import { Route as ScreensIdRouteImport } from './routes/screens.$id'
@@ -73,6 +74,11 @@ const CitiesCityRoute = CitiesCityRouteImport.update({
   path: '/$city',
   getParentRoute: () => CitiesRoute,
 } as any)
+const HallsIdRoute = HallsIdRouteImport.update({
+  id: '/halls/$id',
+  path: '/halls/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const PinPinRoute = PinPinRouteImport.update({
   id: '/pin/$pin',
   path: '/pin/$pin',
@@ -99,6 +105,7 @@ export interface FileRoutesByFullPath {
   '/screens': typeof ScreensRouteWithChildren
   '/true-imax': typeof TrueImaxRoute
   '/cities/$city': typeof CitiesCityRoute
+  '/halls/$id': typeof HallsIdRoute
   '/pin/$pin': typeof PinPinRoute
   '/screens/$id': typeof ScreensIdRoute
   '/cities/': typeof CitiesIndexRoute
@@ -112,6 +119,7 @@ export interface FileRoutesByTo {
   '/privacy': typeof PrivacyRoute
   '/true-imax': typeof TrueImaxRoute
   '/cities/$city': typeof CitiesCityRoute
+  '/halls/$id': typeof HallsIdRoute
   '/pin/$pin': typeof PinPinRoute
   '/screens/$id': typeof ScreensIdRoute
   '/cities': typeof CitiesIndexRoute
@@ -128,6 +136,7 @@ export interface FileRoutesById {
   '/screens': typeof ScreensRouteWithChildren
   '/true-imax': typeof TrueImaxRoute
   '/cities/$city': typeof CitiesCityRoute
+  '/halls/$id': typeof HallsIdRoute
   '/pin/$pin': typeof PinPinRoute
   '/screens/$id': typeof ScreensIdRoute
   '/cities/': typeof CitiesIndexRoute
@@ -145,6 +154,7 @@ export interface FileRouteTypes {
     | '/screens'
     | '/true-imax'
     | '/cities/$city'
+    | '/halls/$id'
     | '/pin/$pin'
     | '/screens/$id'
     | '/cities/'
@@ -158,6 +168,7 @@ export interface FileRouteTypes {
     | '/privacy'
     | '/true-imax'
     | '/cities/$city'
+    | '/halls/$id'
     | '/pin/$pin'
     | '/screens/$id'
     | '/cities'
@@ -173,6 +184,7 @@ export interface FileRouteTypes {
     | '/screens'
     | '/true-imax'
     | '/cities/$city'
+    | '/halls/$id'
     | '/pin/$pin'
     | '/screens/$id'
     | '/cities/'
@@ -188,6 +200,7 @@ export interface RootRouteChildren {
   PrivacyRoute: typeof PrivacyRoute
   ScreensRoute: typeof ScreensRouteWithChildren
   TrueImaxRoute: typeof TrueImaxRoute
+  HallsIdRoute: typeof HallsIdRoute
   PinPinRoute: typeof PinPinRoute
 }
 
@@ -263,6 +276,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof CitiesCityRouteImport
       parentRoute: typeof CitiesRoute
     }
+    '/halls/$id': {
+      id: '/halls/$id'
+      path: '/halls/$id'
+      fullPath: '/halls/$id'
+      preLoaderRoute: typeof HallsIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/pin/$pin': {
       id: '/pin/$pin'
       path: '/pin/$pin'
@@ -322,6 +342,7 @@ const rootRouteChildren: RootRouteChildren = {
   PrivacyRoute: PrivacyRoute,
   ScreensRoute: ScreensRouteWithChildren,
   TrueImaxRoute: TrueImaxRoute,
+  HallsIdRoute: HallsIdRoute,
   PinPinRoute: PinPinRoute,
 }
 export const routeTree = rootRouteImport
