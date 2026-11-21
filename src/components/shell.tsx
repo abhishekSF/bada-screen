@@ -24,7 +24,11 @@ export function Shell({ children }: { children: React.ReactNode }) {
     <div className="min-h-screen bg-bg text-fg">
       <header className="sticky top-0 z-30 border-b border-line bg-bg/95 backdrop-blur">
         <div className="mx-auto flex h-16 max-w-6xl items-center gap-3 px-4">
-          <Link to="/" className="mr-auto flex items-baseline gap-2 sm:mr-0">
+          <Link
+            to="/"
+            search={{ q: "", city: "all", formats: "all" }}
+            className="mr-auto flex items-baseline gap-2 sm:mr-0"
+          >
             <span className="font-display text-xl tracking-tight">Bada Screen</span>
             <span className="hidden text-xs text-faint sm:inline">India</span>
           </Link>

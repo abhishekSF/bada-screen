@@ -12,11 +12,11 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: `${APP_NAME} — Know the screen before you book` },
+      { title: `${APP_NAME} — Halls worth the trip` },
       {
         name: "description",
         content:
-          "Size repository for premium large-format screens across India. Hyderabad is the full directory. Dimensions are cited, and unpublished sizes are left blank.",
+          "A finder for IMAX, other premium large-format screens, and iconic cinema houses in major Indian cities. Ordinary multiplex halls are left out. Sizes are cited only when a source printed them.",
       },
       { name: "theme-color", content: "#12100e" },
     ],

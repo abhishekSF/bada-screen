@@ -35,8 +35,8 @@ function ComparePage() {
         <div className="mt-8 rounded-lg border border-line p-6">
           <h1 className="font-display text-3xl">Nothing selected yet</h1>
           <p className="mt-3 text-muted">Add halls from a screen page, or start from a PIN.</p>
-          <Link to="/" className="mt-4 inline-flex h-11 items-center text-accent">
-            Enter a PIN
+          <Link to="/cities" className="mt-4 inline-flex h-11 items-center text-accent">
+            Browse the size directory
           </Link>
         </div>
       ) : (
